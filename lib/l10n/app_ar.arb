@@ -1,0 +1,17 @@
+{
+    "appTitle": "اسلامي",
+    "quaran_nav": "القران",
+    "hades_nav": "احاديث",
+    "sebha_nav": "السبحة",
+    "radio_nav": "الاذاعة",
+    "settings_nav": "الاعدادات",
+    "sora_name": "اسم السورة",
+    "aya_number": "عدد الايات",
+    "hades_title": "الاحاديث",
+    "language":"اللغه",
+    "english":"الانجليزيه",
+    "arabic":"العربية",
+    "theme":"النمط",
+    "dark":"ليلي",
+    "light":"نهاري"
+}

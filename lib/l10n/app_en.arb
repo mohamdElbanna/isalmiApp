@@ -1,0 +1,18 @@
+{
+    "appTitle": "Islami",
+    "quaran_nav": "Quaran",
+    "hades_nav": "Hadeth",
+    "sebha_nav": "Sebha",
+    "radio_nav": "Radio",
+    "settings_nav": "Settings",
+    "sora_name": "Sora Name",
+    "aya_number":"Aya Numbers",
+    "hades_title":"Ahadeth",
+    "language":"Language",
+    "english":"English",
+    "arabic":"Arabic",
+    "theme":"Theme",
+    "dark":"Dark",
+    "light":"Light"
+
+}
